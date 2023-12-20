@@ -72,9 +72,10 @@ color: #17a2b8;
 </html>
 ``````
 ## OUTPUT: 7(i)
-![Alt text](IMG-20231220-WA0004-1.jpg)
-![Alt text](IMG-20231220-WA0007-1.jpg)
-![Alt text](IMG-20231220-WA0006-1.jpg)
+![IMG-20231220-WA0004](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/6aa04563-b317-4969-bc3e-a31bd78ad050)
+![IMG-20231220-WA0007](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/1d81c4b9-10cf-465e-bc2d-236aa906efa0)
+![IMG-20231220-WA0006](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/2397d5e4-f903-4d84-9892-09f34c795fc5)
+
 ## EX-07(ii)-CSS
 ## AIM:
 To use a media query in CSS to apply different styles to a webpage for mobile devices (with widths less than 600px) and desktop devices (with widths greater than or equal to 600px)? Provide an example CSS snippet to demonstrate your answer.
@@ -134,8 +135,9 @@ font-size=16px;
 </html>
 ``````
 ## OUTPUT: 7(ii)
-![Alt text](IMG-20231220-WA0011-1.jpg)
-![Alt text](IMG-20231220-WA0012-2.jpg)
+![IMG-20231220-WA0011](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/f67a07a6-6814-47b7-9988-80bc4595a8be)
+![IMG-20231220-WA0012](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/59730efb-b456-48f5-a848-89214d06adca)
+
 
 
 ## EX-07(iii)-CSS
@@ -196,7 +198,8 @@ color: #4D1B1B;
 </html>
 ``````
 ## OUTPUT:
-![Alt text](IMG-20231220-WA0009-1.jpg)
+![IMG-20231220-WA0009](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/5d22a2be-0a1d-4316-9e10-2bfc69ed5c3e)
+
 
 ## EX-07-CSS:7(iv)
 ## AIM:
@@ -265,7 +268,7 @@ line-height=1;
 </html>
 ``````
 ## OUTPUT:
-![Alt text](IMG-20231220-WA0010-1.jpg)
+![IMG-20231220-WA0010](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/022141ba-6be3-4fb1-91e1-52789e87d7b1)
 
 ## EX-07(V)-CSS:
 ## AIM:
@@ -326,8 +329,9 @@ End the html code by closing all the open tages.
   </html>
 ``````
 ## OUTPUT:7(V)
-![Alt text](IMG-20231220-WA0002-1.jpg)
-![Alt text](IMG-20231220-WA0008-1.jpg)
+![IMG-20231220-WA0002](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/bb1b5cba-7b07-4750-a250-4c6a240cd6a4)
+![IMG-20231220-WA0008](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/865d65ba-3441-4773-b70c-e7a92dab6e5f)
+
 
 ## EX-07(vi)-CSS:
 ## AIM:
@@ -394,8 +398,9 @@ font-size=16px;
 </html>
 ``````
 ## OUTPUT
-![Alt text](IMG-20231220-WA0005-1.jpg)
-![Alt text](IMG-20231220-WA0001-3.jpg)
+![IMG-20231220-WA0005](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/6327029d-11cd-4297-a040-71717b471eb3)
+![Uploading IMG-20231220-WA0001.jpg…]()
+
 
 ## RESULT
 The output was verified successfully
