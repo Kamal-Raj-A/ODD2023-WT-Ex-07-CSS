@@ -399,8 +399,7 @@ font-size=16px;
 ``````
 ## OUTPUT
 ![IMG-20231220-WA0005](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/6327029d-11cd-4297-a040-71717b471eb3)
-![Uploading IMG-20231220-WA0001.jpg…]()
-
+![IMG-20231220-WA0001](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/da3e0ba5-9a54-4c96-88d9-9a07b156bd4c)
 
 ## RESULT
 The output was verified successfully
