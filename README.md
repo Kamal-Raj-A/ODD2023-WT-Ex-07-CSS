@@ -1,27 +1,27 @@
-Ex-07-CSS7(i)
-## AIM:
+# Ex-07-CSS7(i)
+# AIM:
 (i) Using CSS media queries, modify the webpage's color scheme with the following requirements: Default Color Scheme: Background color: Light gray (#f4f4f4) Text color: Dark gray (#333) Link color: Blue (#007bff) Small Screen Adaptation (Max-width: 600px): Change the background color to dark gray (#333) Change the text color to light gray (#f4f4f4) Change the link color to light green (#28a745) Dark Mode Preference: If the user has set their device to dark mode, override the above styles with the following: Background color: Black (#000) Text color: White (#fff) Link color: Cyan (#17a2b8) Deliverable: Write the CSS code that implements the above requirements. Your code should include the base styles and the appropriate media queries for small screens and dark mode preference.
 
-## DESIGN STEPS :
-## Step 1 : Create HTML Structure
+# DESIGN STEPS :
+# Step 1 : Create HTML Structure
 Create the HTML structure for your webpage.
 
-## Step 2 : Set Default Styles
+# Step 2 : Set Default Styles
 In your CSS file define the default color scheme for the webpage.
 
-## Step 3 : Implement Small Screen Adaptation
+# Step 3 : Implement Small Screen Adaptation
 Within your CSS file, use a media query to adjust styles for small screens (max-width: 600px).
 
-## Step 4 : Implement Dark Mode Preference
+# Step 4 : Implement Dark Mode Preference
 Still in your CSS file, apply another media query to override styles for devices set to dark mode.
 
-## Step 5 : Add Content
+# Step 5 : Add Content
 In your HTML file, add your webpage content within the 'body' tags.
 
-## Step 6 : End the code
+# Step 6 : End the code
 End the html code by closing all the open tages.
 
-## CODE: 7(i)
+# CODE: 7(i)
 ``````
 <!Doctype html>
 <html>
@@ -71,32 +71,31 @@ color: #17a2b8;
 </body>
 </html>
 ``````
-## OUTPUT: 7(i)
+# OUTPUT: 7(i)
 ![IMG-20231220-WA0004](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/6aa04563-b317-4969-bc3e-a31bd78ad050)
 ![IMG-20231220-WA0007](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/1d81c4b9-10cf-465e-bc2d-236aa906efa0)
 ![IMG-20231220-WA0006](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/2397d5e4-f903-4d84-9892-09f34c795fc5)
 
-## EX-07(ii)-CSS
-## AIM:
+# EX-07(ii)-CSS
+# AIM:
 To use a media query in CSS to apply different styles to a webpage for mobile devices (with widths less than 600px) and desktop devices (with widths greater than or equal to 600px)? Provide an example CSS snippet to demonstrate your answer.
 
-## DESIGN STEPS :EX-7(ii)
-## Step 1 : Create HTML Structure
+# DESIGN STEPS :EX-7(ii)
+# Step 1 : Create HTML Structure
 Create the HTML code with root element.
 
-## Step 2 :Define Default Styles
+# Step 2 :Define Default Styles
 Set the default styles for your webpage that will be applied to all devices.
 
-## Step 3 : Apply Media Query for Mobile Devices (Max-width: 600px)
+# Step 3 : Apply Media Query for Mobile Devices (Max-width: 600px)
 Use a media query to adjust styles as needed for a mobile-friendly layout.
 
-## Step 4 : Apply Media Query for Desktop Devices (Min-width: 601px)
+# Step 4 : Apply Media Query for Desktop Devices (Min-width: 601px)
 Use another media query to adjust styles for a larger screen.
-
-## Step 5 : End the code
+# Step 5 : End the code
 End the html code by closing all the open tages.
 
-## CODE:7(ii)
+# CODE:7(ii)
 ``````
 <!Doctype html>
 <html>
@@ -134,35 +133,35 @@ font-size=16px;
 </body>
 </html>
 ``````
-## OUTPUT: 7(ii)
+# OUTPUT: 7(ii)
 ![IMG-20231220-WA0011](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/f67a07a6-6814-47b7-9988-80bc4595a8be)
 ![IMG-20231220-WA0012](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-07-CSS/assets/145742556/59730efb-b456-48f5-a848-89214d06adca)
 
 
 
-## EX-07(iii)-CSS
-## AIM:
+# EX-07(iii)-CSS
+# AIM:
 To know you can use CSS media queries to apply different styles based on the orientation (landscape or portrait) of the device. Provide a CSS example where you change the background color of the body based on the orientation.
 
-## STEP1:
+# STEP1:
 create a html code by entering basic root tags
 
-## STEP2:
+# STEP2:
 use media queries and add the needed orientation there
 
-## STEP3:
+# STEP3:
 After selecting the screen method then type and then (orientation: your required orientation) if you want portrait you can add there
 
-## STEP4:
+# STEP4:
 Type portrait and landscape there
 
-## STEP5:
+# STEP5:
 Enter the required style for it
 
-## STEP6:
+# STEP6:
 Run the html code in both landscape and portrait mode
 
-## CODE:7(iii)
+# CODE:7(iii)
 ``````
 <!Doctype html>
 <html>
